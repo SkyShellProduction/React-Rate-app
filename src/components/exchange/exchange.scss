@@ -1,0 +1,32 @@
+.exchange{
+
+    padding: 40px 25px;
+    border: 1px solid #000;
+    &__head{
+        font-size: 25px;
+    }
+    &__content{
+        li{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 20px;
+            border-bottom: 1px solid #000;
+            margin: 10px 0;
+            padding: 7px 0;
+        }
+    }
+    &__sp1{
+        display: flex;
+        align-items: center;
+    }
+    &__sp2{
+        display: flex;
+        max-width: 250px;
+        width: 100%;
+        align-items: flex-start;
+    }
+    img{
+        width: 30px;
+    }
+}

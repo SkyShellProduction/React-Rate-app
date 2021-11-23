@@ -1,0 +1,31 @@
+.sidebar{
+    border: 1px solid #bfc4cd;
+    max-width: 350px;
+    width: 100%;
+}
+.sidebar__head{
+    border-bottom: 1px solid #bfc4cd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7px 0;
+}
+.sidebar__content{
+    li{
+        padding: 7px 25px;
+        border-bottom: 1px solid #bfc4cd;
+        display: flex;
+        align-items: center;
+        p{
+            display: flex;
+            align-items: center;
+        }
+        span{
+            font-weight: 700;
+        }
+        img{
+            width: 20px;
+            height: 15px;
+        }
+    }
+}

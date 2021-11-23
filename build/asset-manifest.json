@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab1977dd.chunk.css",
+    "main.js": "/static/js/main.c19a8537.chunk.js",
+    "main.js.map": "/static/js/main.c19a8537.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bd9eaff9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bd9eaff9.js.map",
+    "static/js/2.4efe8fb1.chunk.js": "/static/js/2.4efe8fb1.chunk.js",
+    "static/js/2.4efe8fb1.chunk.js.map": "/static/js/2.4efe8fb1.chunk.js.map",
+    "static/js/3.000e42e9.chunk.js": "/static/js/3.000e42e9.chunk.js",
+    "static/js/3.000e42e9.chunk.js.map": "/static/js/3.000e42e9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ab1977dd.chunk.css.map": "/static/css/main.ab1977dd.chunk.css.map",
+    "static/js/2.4efe8fb1.chunk.js.LICENSE.txt": "/static/js/2.4efe8fb1.chunk.js.LICENSE.txt",
+    "static/media/CNY.16052c5e.png": "/static/media/CNY.16052c5e.png",
+    "static/media/EUR.f743010e.png": "/static/media/EUR.f743010e.png",
+    "static/media/GBP.cd2d9f0d.png": "/static/media/GBP.cd2d9f0d.png",
+    "static/media/JPY.4b2c41c9.png": "/static/media/JPY.4b2c41c9.png",
+    "static/media/RUB.3b0c9832.png": "/static/media/RUB.3b0c9832.png",
+    "static/media/USD.cafdbbd0.png": "/static/media/USD.cafdbbd0.png",
+    "static/media/index.scss": "/static/media/fa-solid-900.6ac8eb0f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd9eaff9.js",
+    "static/js/2.4efe8fb1.chunk.js",
+    "static/css/main.ab1977dd.chunk.css",
+    "static/js/main.c19a8537.chunk.js"
+  ]
+}

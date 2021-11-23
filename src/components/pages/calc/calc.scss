@@ -1,0 +1,13 @@
+.calc{
+    min-height: 16vw;
+    border: 1px solid #bfc4cd;
+    &__container{
+        width: 90%;
+        margin: 0 auto;
+        padding: 1vw 0;
+    }
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}

@@ -1,0 +1,33 @@
+.sample{
+    min-height: 16vw;
+    border: 1px solid #bfc4cd;
+    &__container{
+        width: 90%;
+        margin: 0 auto;
+        padding: 1vw 0;
+        &>div{
+            margin-bottom: 30px;
+        }
+    }
+    &__head{
+        width: 70%;
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+    &__result{
+        margin: 2vw 0;
+        li{
+            padding-left: 25%;
+            border: 1px solid #bfc4cd;
+            display: block;
+            margin-bottom: 1vw;
+            padding: 0.5vw;
+            display: grid;
+            grid-template-columns: 2fr 2fr 2fr .3fr;
+            img{
+                width: 20px;
+                height: 15px;
+            }
+        }
+    }
+}
